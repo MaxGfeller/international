@@ -1,0 +1,30 @@
+{
+  "name": "international",
+  "version": "1.0.0",
+  "description": "simple i18n library",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxgfeller/language-switch"
+  },
+  "keywords": [
+    "language",
+    "switch",
+    "simple",
+    "i18n",
+    "browserify"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxgfeller/language-switch/issues"
+  },
+  "homepage": "https://github.com/maxgfeller/language-switch",
+  "devDependencies": {
+    "browserify": "^6.3.3",
+    "tap": "^0.4.13"
+  }
+}
