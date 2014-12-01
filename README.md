@@ -4,6 +4,9 @@
 
 ## Usage
 
+Can be installed with npm (`npm install international`) and used with
+[browserify](https://browserify.org).
+
 ### `international(list, element)`
 
 - `list` is an object of translations
